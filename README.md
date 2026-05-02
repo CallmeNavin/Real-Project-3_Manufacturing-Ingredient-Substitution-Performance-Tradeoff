@@ -114,3 +114,7 @@ _5.2. What actually worked_
 
 - In manufacturing, cheaper inputs do not reduce cost by default. They often relocate cost into operational complexity.
 - The real job of analysis is not to compare prices. It is to identify whether savings remain real after the system absorbs the trade-off.
+- Tools Used:
+  + SQL (data extraction and data preparation)
+  + Excel / Pivot Tables (pair comparison, metric slicing, operational validation)
+  + PowerPoint (decision framing and stakeholder presentation)
